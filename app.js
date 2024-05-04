@@ -1,5 +1,7 @@
-function startClock(){}
 
-function stopClock(){}
 
-function resetClock(){}
+function startClock() {}
+
+function stopClock() {}
+
+function resetClock() {}
